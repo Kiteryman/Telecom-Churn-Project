@@ -46,7 +46,16 @@
 ### xi. Distinguish whether the company loses any high value customer
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/47605c1f-6c33-4a30-b458-68c4661f08dd" />
 
-
+** Findings through EDA：
+- Around 26.54% of the customer churned because of the competitors and poor service quality, and the churned customers contribute to 17.2% of the total revenue of the fiscal year
+- Among all the churned customers, most of them are with short-term contract (Month-to-month contract)
+- Long-term/loyal customers tend to refer more people (May know the service quality through time and get positive impression)
+- Most of the customers consume around 20 - 30GB data per month on average
+- Most of the customers subscribed to the premium technical support but they still got poor experience on the service support
+- Cities with high revenue does not mean there is large number of churned customers, whcih mean that the revenue and the correlation between revenue and churned customers may not be too strong
+- Number of population and the users are not necessary correlated
+- The company indeed loses valuable customers with whom contribute over 10-thousand dollars each year per customers
+- Recommendation：Regarding the poor expertise for support, on-job training is highly recommended for better user experience (More Advice in Unsupervised Learning Section)
 
 
 
