@@ -6,4 +6,5 @@
 - Develop machine learning models for prediction
 ### EDA
 i. Revenue gained from each customer staus
-![Uploading image.png…]()
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/a3a14d5a-67ea-436b-b18a-e6a7b33a96b9" />
+
