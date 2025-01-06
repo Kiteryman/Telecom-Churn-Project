@@ -58,7 +58,7 @@
 - Recommendation：Regarding the poor expertise for support, on-job training is highly recommended for better user experience (More Advice in Unsupervised Learning Section)
 
 ## Unsupervised Learning
-### Clustering
+### 1. Clustering
 
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/558bbf44-3c13-403d-bd3a-f9150da2faaf" />
 
@@ -75,6 +75,23 @@
 - Non-entertainment users with long distance service: Provide offers with free long-distance service limit for each month
 - Entertainment enthuasiasts with long distance service: Suggest customers upgrading to taylor-made plan for unlimited service assess without significant price boost
 - Heavy data usage customers without long distance service: Provide offers with data-oriented package for customers
+
+### 2. DBScan (For filtering out outliers)
+
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/cb51505a-c0bf-4863-ae98-a0840a0c3f80" />
+
+Choose the final DBScan model as Eps = 1.9 and Min Samples = 7
+
+### 3. PCA
+
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/cb63c922-f0b4-4321-aee4-01a28fac7aa2" />
+
+Total 83.952% of variance is captured by the PCs
+
+**PCs Explanation:**
+- PC1: higher = more likely to have more entertainment and subscribe to additional services (high-value, multi-service subscribers)
+- PC2: higher = higher tenure in months and more service charges on customers and more company revenue but less add-ons (long-tenured, higher total revenue, but fewer add-ons)
+- PC3: higher = customers is more likely to have one year contract
 
 
 
