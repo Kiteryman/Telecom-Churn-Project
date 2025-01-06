@@ -46,7 +46,7 @@
 ### xi. Distinguish whether the company loses any high value customer
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/47605c1f-6c33-4a30-b458-68c4661f08dd" />
 
-** Findings through EDA：
+#### Findings through EDA：
 - Around 26.54% of the customer churned because of the competitors and poor service quality, and the churned customers contribute to 17.2% of the total revenue of the fiscal year
 - Among all the churned customers, most of them are with short-term contract (Month-to-month contract)
 - Long-term/loyal customers tend to refer more people (May know the service quality through time and get positive impression)
@@ -57,6 +57,23 @@
 - The company indeed loses valuable customers with whom contribute over 10-thousand dollars each year per customers
 - Recommendation：Regarding the poor expertise for support, on-job training is highly recommended for better user experience (More Advice in Unsupervised Learning Section)
 
+## Unsupervised Learning
+### Clustering
+
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/558bbf44-3c13-403d-bd3a-f9150da2faaf" />
+- Cluster 0: Entertainment enthuasiasts without long distance line service
+- Cluster 1: Non-entertainment users with long distance line service
+- Cluster 2: Entertainment enthuasiasts with long distance line service
+- Cluster 3: Heavy data usage customers without long distance line service
+
+** Original Goal:** Help reducing churned customers
+
+**Recommendation:** Provide value-added service for each customer profile below:
+
+- Entertainment enthuasiasts without long distance service: Provide offers with combination of more diverse free entertainment platforms access
+- Non-entertainment users with long distance service: Provide offers with free long-distance service limit for each month
+- Entertainment enthuasiasts with long distance service: Suggest customers upgrading to taylor-made plan for unlimited service assess without significant price boost
+- Heavy data usage customers without long distance service: Provide offers with data-oriented package for customers
 
 
 
