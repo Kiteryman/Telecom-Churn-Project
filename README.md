@@ -5,3 +5,5 @@
 - Analyze the main reasons of customers turn over
 - Develop machine learning models for prediction
 ### EDA
+i. Revenue gained from each customer staus
+![Uploading image.png…]()
