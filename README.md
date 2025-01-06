@@ -61,12 +61,13 @@
 ### Clustering
 
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/558bbf44-3c13-403d-bd3a-f9150da2faaf" />
+
 - Cluster 0: Entertainment enthuasiasts without long distance line service
 - Cluster 1: Non-entertainment users with long distance line service
 - Cluster 2: Entertainment enthuasiasts with long distance line service
 - Cluster 3: Heavy data usage customers without long distance line service
 
-** Original Goal:** Help reducing churned customers
+**Original Goal:** Help reducing churned customers
 
 **Recommendation:** Provide value-added service for each customer profile below:
 
