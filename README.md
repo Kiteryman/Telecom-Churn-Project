@@ -93,7 +93,25 @@ Total 83.952% of variance is captured by the PCs
 - PC2: higher = higher tenure in months and more service charges on customers and more company revenue but less add-ons (long-tenured, higher total revenue, but fewer add-ons)
 - PC3: higher = customers is more likely to have one year contract
 
+### 4. T-SNE Plots for PCs
 
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/911a5bce-c340-449b-ac7b-23466150d643" />
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/6bc00583-b42e-43af-a7a3-bf61844ad7a3" />
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/53a33ff5-7b26-43c2-bfaf-b8405ecb7edb" />
 
+- There is no perfect class separation for the T-SNE plots, this may indicate there may be non-linear relationship between PCs
+
+### 5. Supervised Learning
+#### i.) Correlation Matrix
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/b243b1a6-189c-4a07-bc05-bc0fa1ab706e" />
+
+- Weak to moderate correlation between PC2 and Customer Status
+
+#### ii.) K-Nearest Neighbor
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/66a1f9ec-5171-4ad6-8857-f1d00a60bf22" />
+<img width="243" alt="image" src="https://github.com/user-attachments/assets/cead36a0-97ad-41ee-8b06-381ade72cd03" />
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/1736bb84-330b-4a68-ae05-2275e9c1bfd5" />
+
+- Model accuracy, precision and recall are 81.3%, 66.7% and 59.4% respectively
 
 
