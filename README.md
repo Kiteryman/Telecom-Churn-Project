@@ -109,10 +109,11 @@ Total 83.952% of variance is captured by the PCs
 
 #### ii.) K-Nearest Neighbor
 <img width="197" alt="image" src="https://github.com/user-attachments/assets/66a1f9ec-5171-4ad6-8857-f1d00a60bf22" />
-
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/cead36a0-97ad-41ee-8b06-381ade72cd03" />
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/1736bb84-330b-4a68-ae05-2275e9c1bfd5" />
 
-- Model accuracy, precision and recall are 81.3%, 66.7% and 59.4% respectively
+- Model accuracy, precision, recall and f1 score are 81.3%, 66.7%, 59.4% and 62.8% respectively
+
+#### iii.) Logistic Regression
 
 
