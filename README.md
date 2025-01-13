@@ -84,7 +84,7 @@ Choose the final DBScan model as Eps = 1.9 and Min Samples = 7
 
 ### 3. PCA
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/cb63c922-f0b4-4321-aee4-01a28fac7aa2" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/cb63c922-f0b4-4321-aee4-01a28fac7aa2" />
 
 Total 83.952% of variance is captured by the PCs
 
