@@ -7,38 +7,38 @@
 ## EDA
 ### i. Revenue gained from each customer status
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a3a14d5a-67ea-436b-b18a-e6a7b33a96b9" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a3a14d5a-67ea-436b-b18a-e6a7b33a96b9" />
 
 ### ii. Churned reasons overview
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0c31ab0d-4f6c-41fa-93e0-2da9038034c7" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0c31ab0d-4f6c-41fa-93e0-2da9038034c7" />
 
 ### iii. Number of churned customers in each contract type
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/960fec38-becf-4bc3-9354-d521ad80caaa" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/960fec38-becf-4bc3-9354-d521ad80caaa" />
 
 ### iv. Average number of referral from the different contract type customers
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a6943cd4-dad2-4d48-9dbe-440bec0bfbc7" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a6943cd4-dad2-4d48-9dbe-440bec0bfbc7" />
 
 ### v. Proportion of churned customers that have subscribed to premium tech support
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/fe439271-f18a-40d2-b565-4f82a73e1e09" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/fe439271-f18a-40d2-b565-4f82a73e1e09" />
 
 ### vi. Distribution of data usage
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/073780b9-b322-4337-b092-6e9d0508fcaf" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/073780b9-b322-4337-b092-6e9d0508fcaf" />
 
 ### vii. Revenue per city and distinguish whether the city with high revenue also has high churn number
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/261e64a2-0519-4b1f-a724-26124406681a" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/adcaae04-3b75-45e0-9efc-7a245e27e640" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/261e64a2-0519-4b1f-a724-26124406681a" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/adcaae04-3b75-45e0-9efc-7a245e27e640" />
 
 ### viii. Correlation of number of user and the population size
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a27955b4-4bf6-483a-92bc-1d3f2bc6732e" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a27955b4-4bf6-483a-92bc-1d3f2bc6732e" />
 
 ### ix. Correlation of total number of user and the churned number
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e688f2cc-d674-4218-b46a-65f4a896dfba" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e688f2cc-d674-4218-b46a-65f4a896dfba" />
 
 ### x. Proportion of churned customers and the churned cash flow
 <img width="448" alt="image" src="https://github.com/user-attachments/assets/7ee3c583-173a-40a3-9cfc-ff598fbcd0c3" />
@@ -60,7 +60,7 @@
 ## Unsupervised Learning
 ### 1. Clustering
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/558bbf44-3c13-403d-bd3a-f9150da2faaf" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/558bbf44-3c13-403d-bd3a-f9150da2faaf" />
 
 - Cluster 0: Entertainment enthuasiasts without long distance line service
 - Cluster 1: Non-entertainment users with long distance line service
@@ -95,24 +95,24 @@ Total 83.952% of variance is captured by the PCs
 
 ### 4. T-SNE Plots for PCs
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/911a5bce-c340-449b-ac7b-23466150d643" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6bc00583-b42e-43af-a7a3-bf61844ad7a3" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/53a33ff5-7b26-43c2-bfaf-b8405ecb7edb" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/911a5bce-c340-449b-ac7b-23466150d643" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6bc00583-b42e-43af-a7a3-bf61844ad7a3" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/53a33ff5-7b26-43c2-bfaf-b8405ecb7edb" />
 
 - There is no perfect class separation for the T-SNE plots, this may indicate there may be non-linear relationship between PCs
 
 ### 5. Supervised Learning
 #### i.) Correlation Matrix
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b243b1a6-189c-4a07-bc05-bc0fa1ab706e" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b243b1a6-189c-4a07-bc05-bc0fa1ab706e" />
 
 - Weak to moderate correlation between PC2 and Customer Status
 
 #### ii.) K-Nearest Neighbor
 <p align="left">
-  <img width="116" alt="image" src="https://github.com/user-attachments/assets/b4fabb9f-f349-4098-89c7-5b1bb28e835b" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/b4fabb9f-f349-4098-89c7-5b1bb28e835b" />
 </p>
 <p align="left">
-  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1736bb84-330b-4a68-ae05-2275e9c1bfd5" />
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1736bb84-330b-4a68-ae05-2275e9c1bfd5" />
 </p>
 
 - Model accuracy, precision, recall and f1 score are 81.3%, 66.7%, 59.4% and 62.8% respectively
