@@ -108,8 +108,6 @@ Total 83.952% of variance is captured by the PCs
 - Weak to moderate correlation between PC2 and Customer Status
 
 #### ii.) K-Nearest Neighbor
-<img width="197" alt="image" src="https://github.com/user-attachments/assets/66a1f9ec-5171-4ad6-8857-f1d00a60bf22" />
-<img width="243" alt="image" src="https://github.com/user-attachments/assets/cead36a0-97ad-41ee-8b06-381ade72cd03" />
 <img width="116" alt="image" src="https://github.com/user-attachments/assets/b4fabb9f-f349-4098-89c7-5b1bb28e835b" />
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/1736bb84-330b-4a68-ae05-2275e9c1bfd5" />
 
