@@ -31,8 +31,8 @@
 
 ### vii. Revenue per city and distinguish whether the city with high revenue also has high churn number
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/261e64a2-0519-4b1f-a724-26124406681a" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/adcaae04-3b75-45e0-9efc-7a245e27e640" />
+<img width="1100" height="1100" alt="image" src="https://github.com/user-attachments/assets/261e64a2-0519-4b1f-a724-26124406681a" />
+<img width="1100" height="1100" alt="image" src="https://github.com/user-attachments/assets/adcaae04-3b75-45e0-9efc-7a245e27e640" />
 
 ### viii. Correlation of number of user and the population size
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a27955b4-4bf6-483a-92bc-1d3f2bc6732e" />
