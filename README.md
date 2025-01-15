@@ -112,7 +112,7 @@ Total 83.952% of variance is captured by the PCs
   <img width="150" alt="image" src="https://github.com/user-attachments/assets/b4fabb9f-f349-4098-89c7-5b1bb28e835b" />
 </p>
 <p align="left">
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1736bb84-330b-4a68-ae05-2275e9c1bfd5" />
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1736bb84-330b-4a68-ae05-2275e9c1bfd5" />
 </p>
 
 - Model accuracy, precision, recall and f1 score are 81.3%, 66.7%, 59.4% and 62.8% respectively
