@@ -121,7 +121,7 @@ Total 83.952% of variance is captured by the PCs
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/8407de48-9d01-4a43-bc27-d6f23b0d631c" />
 </p>
 
-- The model could get around 0.8 true positive rate while introducing around 0.2 false positive prediction
+- The KNN model could get around 0.8 true positive rate while introducing around 0.2 false positive prediction
 
 <p align="left">
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/7c6808de-48d3-4cc1-90f9-c8659935d11d" />
@@ -148,3 +148,26 @@ $$
 <p align="left">
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f34dbf65-daeb-4cc0-b135-e82ed28e02a8" />
 </p>
+
+- Model accuracy, precision, recall and f1 score are 76.1%, 58.1%, 36.4% and 44.7% respectively
+
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/f021a742-d05c-4e4d-9cdb-30d81b87ec28" />
+</p>
+
+- The KNN model could get around 0.7 true positive rate while introducing around 0.3 false positive rate
+
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/669f9db8-4688-4bb3-a224-bb138c49340e" />
+</p>
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/3f9ee077-83d6-468b-b271-b6479cc24d63" />
+</p>
+
+- The F1-Score is maximized at the threshold of about 0.37
+
+<p align="left">
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/7672a3d7-7ed7-4a09-b87a-3748a341358e" />
+</p>
+
+- The precision, recall and F1-Socre are 0.518, 0.650 and 0.577 when the threshold is set to 0.37, which is a massive increment
