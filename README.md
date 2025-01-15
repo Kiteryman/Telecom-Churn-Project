@@ -120,6 +120,9 @@ Total 83.952% of variance is captured by the PCs
 <p align="left">
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/8407de48-9d01-4a43-bc27-d6f23b0d631c" />
 </p>
+
+- The model could get around 0.8 true positive rate while introducing around 0.2 false positive prediction
+
 <p align="left">
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/7c6808de-48d3-4cc1-90f9-c8659935d11d" />
 </p>
