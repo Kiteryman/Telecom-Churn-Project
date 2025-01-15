@@ -137,3 +137,14 @@ Total 83.952% of variance is captured by the PCs
 $$
 \text{Logit}(p) = \log\Bigl(\frac{p}{1 - p}\Bigr) = -1.32868 + 0.221613 \cdot \mathrm{PC1} - 0.549782 \cdot \mathrm{PC2} -  0.108749 \cdot \mathrm{PC3}
 $$
+
+- When holding other variables constant, one unit increase in PC1 will cause the odds of being churned increase by 1.249
+- When holding other variables constant, one unit increase in PC2 will cause the odds of being churned decrease by 1.733
+- When holding other variables constant, one unit increase in PC3 will cause the odds of being churned decrease by 1.115
+
+<p align="left">
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/2fa31d3b-302a-461a-a1fa-ca57b575f30d" />
+</p>
+<p align="left">
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f34dbf65-daeb-4cc0-b135-e82ed28e02a8" />
+</p>
