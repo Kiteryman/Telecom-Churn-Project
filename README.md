@@ -134,17 +134,11 @@ Total 83.952% of variance is captured by the PCs
 
 #### iii.) Logistic Regression
 
-Logistic Regression Formula
-
-Here is the **logit** form of our regression equation, rendered as an image:
-
-![Logistic Regression Equation](
-  https://render.githubusercontent.com/render/math?math=%5Ctext%7BLogit%7D%28p%29%20%3D%20%5Clog%21%5Cbiggl%28%5Cfrac%7Bp%7D%7B1-p%7D%5Cbiggr%29%20%3D%20-1.32868%20%2B%200.221613%5Ccdot%20%5Cmathrm%7BPC1%7D%20-%200.549782%5Ccdot%20%5Cmathrm%7BPC2%7D%20-%200.108749%5Ccdot%20%5Cmathrm%7BPC3%7D
-)
-
-And here’s the formula to get the predicted probability \(p\):
-
-![Predicted Probability](
-  https://render.githubusercontent.com/render/math?math=p%20%3D%20%5Cfrac%7B1%7D%7B1%20%2B%20%5Cexp%5B-%28-1.32868%20%2B%200.221613%5Ccdot%20%5Cmathrm%7BPC1%7D%20-%200.549782%5Ccdot%20%5Cmathrm%7BPC2%7D%20-%200.108749%5Ccdot%20%5Cmathrm%7BPC3%7D%29%5D%7D
-)
-
+$
+\text{Logit}(p) 
+= \log\!\biggl(\frac{p}{1 - p}\biggr) 
+= -1.32868 
+  + 0.221613 \cdot \mathrm{PC1}
+  - 0.549782 \cdot \mathrm{PC2}
+  - 0.108749 \cdot \mathrm{PC3}.
+$
