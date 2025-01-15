@@ -141,13 +141,6 @@ $$
 &= \log\!\Bigl(\frac{p}{1 - p}\Bigr) 
  = -1.32868 \;+\; 0.221613 \cdot \mathrm{PC1}
     \;-\; 0.549782 \cdot \mathrm{PC2}
-    \;-\; 0.108749 \cdot \mathrm{PC3}, 
-\\[6pt]
-p 
-&= \frac{1}{1 + \exp\!\Bigl[-\bigl(\,-1.32868 
-  + 0.221613 \,\mathrm{PC1}
-  - 0.549782 \,\mathrm{PC2}
-  - 0.108749 \,\mathrm{PC3}\bigr)\Bigr]}. 
-\end{aligned}
+    \;-\; 0.108749 \cdot \mathrm{PC3}
 \]
 $$
