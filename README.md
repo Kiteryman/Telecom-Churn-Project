@@ -134,4 +134,11 @@ Total 83.952% of variance is captured by the PCs
 
 #### iii.) Logistic Regression
 
-
+$$
+\text{Logit}(p) 
+= \log\!\biggl(\frac{p}{1 - p}\biggr) 
+= -1.32868 
+  + 0.222 \cdot \mathrm{PC1}
+  - 0.550 \cdot \mathrm{PC2}
+  - 0.109 \cdot \mathrm{PC3}.
+$$
