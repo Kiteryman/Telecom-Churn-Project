@@ -95,15 +95,15 @@ Total 83.952% of variance is captured by the PCs
 
 ### 4. T-SNE Plots for PCs
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/911a5bce-c340-449b-ac7b-23466150d643" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6bc00583-b42e-43af-a7a3-bf61844ad7a3" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/53a33ff5-7b26-43c2-bfaf-b8405ecb7edb" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/911a5bce-c340-449b-ac7b-23466150d643" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6bc00583-b42e-43af-a7a3-bf61844ad7a3" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/53a33ff5-7b26-43c2-bfaf-b8405ecb7edb" />
 
 - There is no perfect class separation for the T-SNE plots, this may indicate there may be non-linear relationship between PCs
 
 ### 5. Supervised Learning
 #### i.) Correlation Matrix
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b243b1a6-189c-4a07-bc05-bc0fa1ab706e" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/b243b1a6-189c-4a07-bc05-bc0fa1ab706e" />
 
 - Weak to moderate correlation between PC2 and Customer Status
 
