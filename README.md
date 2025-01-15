@@ -118,11 +118,17 @@ Total 83.952% of variance is captured by the PCs
 - Model accuracy, precision, recall and f1 score are 81.3%, 66.7%, 59.4% and 62.8% respectively
 
 <p align="left">
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8407de48-9d01-4a43-bc27-d6f23b0d631c" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/8407de48-9d01-4a43-bc27-d6f23b0d631c" />
 </p>
 <p align="left">
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7c6808de-48d3-4cc1-90f9-c8659935d11d" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/7c6808de-48d3-4cc1-90f9-c8659935d11d" />
 </p>
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a19f78e1-e482-4625-bb24-4a4ed965125c" />
+</p>
+
+- The F1-Score is maximized at the threshold of about 0.38
+
 #### iii.) Logistic Regression
 
 
