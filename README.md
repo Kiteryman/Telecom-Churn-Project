@@ -155,7 +155,7 @@ $$
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/f021a742-d05c-4e4d-9cdb-30d81b87ec28" />
 </p>
 
-- The KNN model could get around 0.7 true positive rate while introducing around 0.3 false positive rate
+- The LR model could get around 0.7 true positive rate while introducing around 0.3 false positive rate
 
 <p align="left">
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/669f9db8-4688-4bb3-a224-bb138c49340e" />
@@ -171,3 +171,35 @@ $$
 </p>
 
 - The precision, recall and F1-Socre are 0.518, 0.650 and 0.577 when the threshold is set to 0.37, which is a massive increment
+
+#### iv.) Random Forest
+
+<p align="left">
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/ffa79126-20f7-4507-bd96-d49b5e14010f" />
+</p>
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/c3f6e104-c84e-4137-8ce6-351e9337fa8c" />
+</p>
+
+- Model accuracy, precision, recall and f1 score are 80.5%, 68.0%, 50.5% and 58.0% respectively
+
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/ec75c853-375b-49bf-882a-a5d95676b950" />
+</p>
+
+- The RF model could get around 0.8 true positive rate while introducing around 0.25 false positive rate
+
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/ea94bdd5-03a3-43db-a9e7-90bd9d19eec0" />
+</p>
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/f0f2728c-c1e1-4bfe-8ee2-d0dc398d51cf" />
+</p>
+
+- The F1-Score is maximized at the threshold of about 0.35
+
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/863585cd-7ca2-4db4-a675-3cf38b6bb561" />
+</p>
+
+- The PC3 is the most important feature which indicates the length of contract period being one year, but it does not show a significant relationship with the label (Customer Status)
