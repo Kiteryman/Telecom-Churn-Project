@@ -199,7 +199,7 @@ $$
 - The F1-Score is maximized at the threshold of about 0.35
 
 <p align="left">
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/863585cd-7ca2-4db4-a675-3cf38b6bb561" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/863585cd-7ca2-4db4-a675-3cf38b6bb561" />
 </p>
 
 - The PC3 is the most important feature which indicates the length of contract period being one year, but it does not show a significant relationship with the label (Customer Status)
