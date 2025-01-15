@@ -7,27 +7,27 @@
 ## EDA
 ### i. Revenue gained from each customer status
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a3a14d5a-67ea-436b-b18a-e6a7b33a96b9" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a3a14d5a-67ea-436b-b18a-e6a7b33a96b9" />
 
 ### ii. Churned reasons overview
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0c31ab0d-4f6c-41fa-93e0-2da9038034c7" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0c31ab0d-4f6c-41fa-93e0-2da9038034c7" />
 
 ### iii. Number of churned customers in each contract type
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/960fec38-becf-4bc3-9354-d521ad80caaa" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/960fec38-becf-4bc3-9354-d521ad80caaa" />
 
 ### iv. Average number of referral from the different contract type customers
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a6943cd4-dad2-4d48-9dbe-440bec0bfbc7" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a6943cd4-dad2-4d48-9dbe-440bec0bfbc7" />
 
 ### v. Proportion of churned customers that have subscribed to premium tech support
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/fe439271-f18a-40d2-b565-4f82a73e1e09" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/fe439271-f18a-40d2-b565-4f82a73e1e09" />
 
 ### vi. Distribution of data usage
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/073780b9-b322-4337-b092-6e9d0508fcaf" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/073780b9-b322-4337-b092-6e9d0508fcaf" />
 
 ### vii. Revenue per city and distinguish whether the city with high revenue also has high churn number
 
