@@ -23,7 +23,7 @@
 
 ### v. Proportion of churned customers that have subscribed to premium tech support
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/fe439271-f18a-40d2-b565-4f82a73e1e09" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fe439271-f18a-40d2-b565-4f82a73e1e09" />
 
 ### vi. Distribution of data usage
 
