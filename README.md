@@ -35,10 +35,10 @@
 <img width="1100" height="1000" alt="image" src="https://github.com/user-attachments/assets/adcaae04-3b75-45e0-9efc-7a245e27e640" />
 
 ### viii. Correlation of number of user and the population size
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a27955b4-4bf6-483a-92bc-1d3f2bc6732e" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a27955b4-4bf6-483a-92bc-1d3f2bc6732e" />
 
 ### ix. Correlation of total number of user and the churned number
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e688f2cc-d674-4218-b46a-65f4a896dfba" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e688f2cc-d674-4218-b46a-65f4a896dfba" />
 
 ### x. Proportion of churned customers and the churned cash flow
 <img width="448" alt="image" src="https://github.com/user-attachments/assets/7ee3c583-173a-40a3-9cfc-ff598fbcd0c3" />
