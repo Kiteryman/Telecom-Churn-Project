@@ -203,3 +203,35 @@ $$
 </p>
 
 - The PC3 is the most important feature which indicates the length of contract period being one year, but it does not show a significant relationship with the label (Customer Status)
+
+v. Support Vector Machine
+
+<p align="left">
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/2c6469d7-60aa-4bbc-a83d-8b5a1a18e728" />
+</p>
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/2bcb2763-bb4a-4d85-8cd5-c9e393b22ed4" />
+</p>
+
+- Model accuracy, precision, recall and f1 score are 81.4%, 71.2%, 50.3% and 58.9% respectively
+
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4c2e982a-acba-4995-91a2-e30ea43a0a37" />
+</p>
+
+- The SVM model could get around 0.8 true positive rate while introducing around 0.25 false positive rate
+
+<p align="left">
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a998d797-465c-45a6-b2a1-cf3147e5e5df" />
+</p>
+<p align="left">
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8ac3850f-8ee7-409f-a390-361e35c2077a" />
+</p>
+
+- The F1-Score is maximized at the threshold of about 0.16
+
+### 6. Model Evaluation
+- Given that the customer retention could be costly by implementing the customized offers, so in this case precision score is mostly concerned and SVM model could provide the best precision
+- In terms of general performance for striving a balance between precision and recall, KNN works out the best solution as it provides decent accuracy while getting moderate high precision and recall score
+- Given that the prediction variables are PCs, which do not capture all the variance in the true sample data, so the performance metrics may not be as good as the original data
+- But still PCs are used because it could significant reduce the dimension which may pose curse of dimensionality effect to the models
