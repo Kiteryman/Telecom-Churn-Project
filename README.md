@@ -231,7 +231,6 @@ v. Support Vector Machine
 - The F1-Score is maximized at the threshold of about 0.16
 
 ### 6. Model Evaluation
-- Given that the customer retention could be costly by implementing the customized offers, so in this case precision score is mostly concerned and SVM model could provide the best precision
-- In terms of general performance for striving a balance between precision and recall, KNN works out the best solution as it provides decent accuracy while getting moderate high precision and recall score
-- Given that the prediction variables are PCs, which do not capture all the variance in the true sample data, so the performance metrics may not be as good as the original data
-- But still PCs are used because it could significant reduce the dimension which may pose curse of dimensionality effect to the models
+- Customer retention can be costly when implementing customized offers. In this case, the precision score is the primary concern, and an SVM model could provide the best precision
+- For general performance, when striving for a balance between precision and recall, KNN works as the best solution since it provides decent accuracy while achieving moderately high precision and recall scores
+- Since the prediction variables are principal components (PCs), which do not capture all the variance in the true sample data, the performance metrics may not be as good as when using the original data. However, PCs are still used because they significantly reduce the dimensionality, mitigating the curse of dimensionality that could affect the models
